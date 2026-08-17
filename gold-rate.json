@@ -2,16 +2,16 @@
   "metal": "gold",
   "rates": {
     "INR": {
-      "ounce": 419435.434,
-      "gram": 13485.162,
-      "tola": 157288.288
+      "ounce": 421685.101,
+      "gram": 13557.491,
+      "tola": 158131.913
     },
     "USD": {
-      "ounce": 4383.273,
-      "gram": 140.926,
-      "tola": 1643.728
+      "ounce": 4406.645,
+      "gram": 141.677,
+      "tola": 1652.492
     }
   },
-  "updated_at": "2026-08-17T13:07:51.724Z",
+  "updated_at": "2026-08-17T13:54:48.947Z",
   "source": "goldprice.today"
 }
